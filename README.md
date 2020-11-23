@@ -4,8 +4,8 @@
 Created an android app that let's user click on certain buttons and an action occurs. Also added extra features that let's use customize their experience by letting them choose the displayed text
 
 ### App Walk-though
-<img src="https://imgur.com/S6EC6Gp" width=200><br>
-![Android_app gif](Android_App.gif)
+![Android_App](https://user-images.githubusercontent.com/67253470/100028206-053a4480-2db4-11eb-8c58-5041189dd6b7.gif)
+
 
 
 ### Required User Stories
