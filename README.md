@@ -5,7 +5,7 @@ Created an android app that let's user click on certain buttons and an action oc
 
 ### App Walk-though
 <img src="https://imgur.com/S6EC6Gp" width=200><br>
-![Android_app gif](https://imgur.com/S6EC6Gp)
+![Android_app gif](Android_App.gif)
 
 
 ### Required User Stories
